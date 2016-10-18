@@ -36,6 +36,7 @@ group :development, :test do
 end
 
 gem 'bootstrap', '~> 4.0.0.alpha4'
+gem 'devise'
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
