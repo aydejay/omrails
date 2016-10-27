@@ -37,6 +37,8 @@ end
 
 gem 'bootstrap', '~> 4.0.0.alpha4'
 gem 'devise'
+gem 'activeadmin', '~> 1.0.0.pre4'
+gem 'inherited_resources', github: 'activeadmin/inherited_resources'
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
